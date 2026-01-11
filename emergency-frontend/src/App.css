@@ -1,0 +1,14 @@
+.resident-dropdown {
+  background: white;
+  color: black; /* Text color */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px 12px;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.resident-dropdown option {
+  background: white;
+  color: black; /* Ensure options are visible */
+}
